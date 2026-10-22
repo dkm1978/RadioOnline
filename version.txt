@@ -1,2 +1,2 @@
-10
-https://github.com/dkm1978/RadioOnline/releases/download/v10/RadioOnline.apk
+11
+https://github.com/dkm1978/RadioOnline/releases/download/v11/RadioOnline.apk
